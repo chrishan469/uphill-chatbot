@@ -1,0 +1,10 @@
+{
+  "earnings_formula": {
+    "formula": "earnings = gci - 18000",
+    "keywords": ["gci", "earnings"]
+  },
+  "commission_formula": {
+    "formula": "commission = sales * 0.1",
+    "keywords": ["commission", "sales"]
+  }
+}
